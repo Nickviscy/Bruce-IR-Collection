@@ -1,0 +1,10 @@
+Filetype: Bruce IR File
+Version: 1
+#
+# tesla-tv-off
+name: power-1
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 892 802 1726 886 864 832 894 802 894 802 864 832 894 1634 1728 884 892 804 892 804 892 804 866
+#
