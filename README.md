@@ -23,3 +23,8 @@ How to use?
 7. Select the IR Button of your choice and point the IR towards the Device you wan't to control
 
 8. Don't forget to give a Star on Github <3
+
+
+You wan't to support my work? 
+
+BTC: bc1qxgu3na5v9lv8qlc2lesvu9hzc3vjus22lx2uku
