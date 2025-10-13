@@ -1,0 +1,172 @@
+Filetype: Bruce IR File
+Version: 1
+#
+# blaupunkt6
+name: POWER
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 278 274 476 1970 476
+#
+name: UP
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 188 5590 1202 1662 508
+#
+name: DOWN
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 196 160 756 1662 508
+#
+name: LEFT
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 190 7148 1116 1664 530
+#
+name: RIGHT
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 332 274 200 162 312 1688 504
+#
+name: OK
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 220 998 336 470 504
+#
+name: SOURCES
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 222 996 308 554 586
+#
+name: VOL+
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 470 248 476 1664 476
+#
+name: VOL-
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 474 244 476 1664 476
+#
+name: CHA+
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 194 164 1616 552 504
+#
+name: CHA-
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 220 998 336 526 588
+#
+name: MUTE
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 332 1082 950 552 502
+#
+name: SETTINGS
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 194 1024 336 526 560
+#
+name: NETFLIX
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 222 580 334 1390 530
+#
+name: HOME
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 192 608 312 1412 534
+#
+name: BACK
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 194 1026 334 526 558
+#
+name: EXIT
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 220 998 336 526 584
+#
+name: SMART
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 220 998 310 552 558
+#
+name: 1
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 472 580 474 1444 502
+#
+name: 2
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 748 276 474 1444 500
+#
+name: 3
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 220 192 282 218 556 1388 532
+#
+name: 4
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 304 246 950 1386 474
+#
+name: 5
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 306 246 948 1386 504
+#
+name: 6
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 472 164 756 1384 506
+#
+name: 7
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 168 300 754 1414 476
+#
+name: 8
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 194 274 782 1386 504
+#
+name: 9
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 530 244 642 1388 558
+#
+name: 0
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 332 804 506 1384 506
+#
