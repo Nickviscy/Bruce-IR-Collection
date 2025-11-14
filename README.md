@@ -28,3 +28,6 @@ How to use?
 You wan't to support my work? 
 
 BTC: bc1qxgu3na5v9lv8qlc2lesvu9hzc3vjus22lx2uku
+
+
+:)
